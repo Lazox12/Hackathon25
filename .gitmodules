@@ -1,0 +1,3 @@
+[submodule "embeded"]
+	path = embeded
+	url = https://github.com/Lazox12/hackathon25-microbit
